@@ -39,6 +39,7 @@
   </a>
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
     <img alt="python" width="38px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+  </a>
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
     <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   </a>
@@ -59,7 +60,7 @@
 ##
   
  <div>
-   <a href="https://github.com/LeandroHsn">
+   <a href="https://github.com/LeandroHsn"></a>
    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=LeandroHsn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHsn&layout=compact&langs_count=7&theme=dark"/>
  </div> 
