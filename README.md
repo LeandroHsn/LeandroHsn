@@ -3,7 +3,7 @@
 
 <div id="title">
   <p><strong>Olá 👋, eu sou o Leandro Henrick</strong></p>
-  <p> 🚀 Um estagiário engajado e muito motivado, que ama aprender novas tecnologias! 😄 </p>
+  <p> 🚀 Um analista de sistemas engajado e muito motivado, que ama aprender novas tecnologias! 😄 </p>
 </div>
 
 ##
