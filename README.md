@@ -69,7 +69,8 @@
 
 <div id="study">
   <p> <strong>Sobre meus estudos...</strong></P>
-  <p> Atualmente, sou estudante de Análise e desenvolvimento de sistemas no Instituto Federal do Triângulo Mineiro (IFTM). </p>  
+  <p> Atualmente, formado em Análise e desenvolvimento de sistemas no Instituto Federal do Triângulo Mineiro (IFTM). </p>  
+  <p> Cursando diversos cursos na plataforma ALURA.</p>  
 </div>
 
 ##
@@ -77,7 +78,7 @@
 <div id="about">
   <p><strong>Sobre mim ...</strong></p>
   <ul>
-    <li>🙇‍♂️  Tenho 22 anos. </li>
+    <li>🙇‍♂️  Tenho 24 anos. </li>
     <li>🎮  Meu hobby favorito se resume em jogar video-game com meus amigos e praticar esportes (o que me chamar). </li>
     <li>🌎  Gostaria muito de codar em Home office enquanto viajo pelo mundo. </li>
     <li>💁  Inclusão, respeito, empatia e companherismo são valores importantíssimos que sempre levo comigo.</li>
