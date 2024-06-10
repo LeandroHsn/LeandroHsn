@@ -50,7 +50,7 @@
     <img alt="Java script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </a>
   <a target="_blank" href="https://dev.mysql.com/doc/" rel="nofollow">
-    <img alt="my Sql" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img alt="my Sql" width="38px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
   </a>
   <a target="_blank" href="https://git-scm.com/doc" rel="nofollow">
     <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
